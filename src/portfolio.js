@@ -275,12 +275,12 @@ const achievementSection = {
       subtitle:
         "Merit-based full scholarship program to attend 2 years of secondary school in Singapore, and 2 years of junior college. ",
       image: require("./assets/images/moe-logo.jpg"),
-      imageAlt: "Google Code-In Logo",
-      footerLink: [
-        {
-          name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
-        }
+      imageAlt: "MOE Logo",
+      // footerLink: [
+      //   {
+      //     name: "Certification",
+      //     url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+      //   }
         // {
         //   name: "Award Letter",
         //   url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
@@ -289,20 +289,20 @@ const achievementSection = {
         //   name: "Google Code-in Blog",
         //   url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
         // }
-      ]
+      // ]
     },
     {
       title: "Georgia Tech Faculty Honors",
       subtitle:
         "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
       image: require("./assets/images/gt-merit-badge-faculty-honors2.png"),
-      imageAlt: "Google Assistant Action Logo",
-      footerLink: [
-        {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
-        }
-      ]
+      imageAlt: "Georgia Tech Faculty Honors Logo",
+      // footerLink: [
+      //   {
+      //     name: "View Google Assistant Action",
+      //     url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+      //   }
+      // ]
     }
 
     // {
