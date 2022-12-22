@@ -406,7 +406,7 @@ const personalLifeSection = {
       subtitle: emoji(
         "I am a dedicated runner! My typical weekly milage is around 55-65mpw. My favorite distance is the Half Marathon! My PR for the Half Marathon is 1:18. My next goal for the HM is 1:15"
       ),
-      image: require("./assets/images/Publix_Half.JPG"),
+      image: require("./assets/images/publix_half.jpg"),
       imageAlt: "Running Photo"
     },
     {
