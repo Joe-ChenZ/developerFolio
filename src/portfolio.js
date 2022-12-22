@@ -274,7 +274,7 @@ const achievementSection = {
       title: "Singapore Ministry of Education, SM1 Full Scholarship",
       subtitle:
         "Merit-based full scholarship program to attend 2 years of secondary school in Singapore, and 2 years of junior college. ",
-      image: require("./assets/images/moe-logo.jpg"),
+      image: require("./assets/images/moe-logo.png"),
       imageAlt: "MOE Logo",
       // footerLink: [
       //   {
