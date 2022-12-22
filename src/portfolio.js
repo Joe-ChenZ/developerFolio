@@ -294,7 +294,7 @@ const achievementSection = {
     {
       title: "Georgia Tech Faculty Honors",
       subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
+        "I excelled academically with 4.0 GPA for all semesters",
       image: require("./assets/images/gt-merit-badge-faculty-honors2.png"),
       imageAlt: "Georgia Tech Faculty Honors Logo",
       // footerLink: [
