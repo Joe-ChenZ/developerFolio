@@ -10,7 +10,7 @@ export default function Education() {
   if (personalLifeSection.display) {
     return (
       <Fade bottom duration={1000} distance="20px">
-        <div className="main" id="achievements">
+        <div className="main" id="personalLife">
           <div className="achievement-main-div">
             <div className="achievement-header">
               <h1
